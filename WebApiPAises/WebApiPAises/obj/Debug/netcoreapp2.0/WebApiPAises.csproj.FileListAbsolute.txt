@@ -1,0 +1,11 @@
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\bin\Debug\netcoreapp2.0\WebApiPAises.deps.json
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\bin\Debug\netcoreapp2.0\WebApiPAises.runtimeconfig.json
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\bin\Debug\netcoreapp2.0\WebApiPAises.runtimeconfig.dev.json
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\bin\Debug\netcoreapp2.0\WebApiPAises.dll
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\bin\Debug\netcoreapp2.0\WebApiPAises.pdb
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.csprojAssemblyReference.cache
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.csproj.CoreCompileInputs.cache
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.AssemblyInfoInputs.cache
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.AssemblyInfo.cs
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.dll
+C:\Users\erick.medina\Documents\Visual Studio 2017\WebApiPAises\WebApiPAises\obj\Debug\netcoreapp2.0\WebApiPAises.pdb
