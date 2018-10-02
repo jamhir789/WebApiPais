@@ -15,6 +15,7 @@ namespace WebApiPAises.Models
 
         public int Id { get; set; }
         [StringLength(30)]
+        [Required]
         public string Nombre { get; set; }
 
         public List<Provincia> Provincias{ get; set; }

@@ -13,6 +13,7 @@
       "launchBrowser": true,
       "launchUrl": "api/pais",
       "environmentVariables": {
+        "LLave_super_secreta": "TrabajoWebapiSlipknotdeErickMedinaPerezGraciasPorUsarlo",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
